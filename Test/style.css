@@ -1,0 +1,21 @@
+*
+{
+    color:whitesmoke;
+}
+body
+{
+    background-color: rgb(94, 93, 89);
+    
+}
+
+.box
+{
+    box-shadow: 10px 10px 20px 5px black;
+    border-radius: 25px;
+    width: 300px;
+    padding: 20px;
+    border: 10px pink;
+    border-style: inset;
+    margin : 0px;
+}
+
