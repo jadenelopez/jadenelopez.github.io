@@ -1,0 +1,100 @@
+*
+{
+    background-color: antiquewhite;
+    color: #685044
+}
+
+h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
+    text-align: center;
+}
+
+.box
+{
+    
+    width: auto;
+    height: 70px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px;
+    padding: 5px;
+    background-color: #E9AFA3;
+    box-shadow: 5px 5px 5px;
+    overflow: auto;
+    
+}
+
+h1
+{
+    color: #AEC5EB;
+    width: auto;
+    height: 70px;
+    margin: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px;
+    padding: 20px;
+    background-color: #3A405A;
+    box-shadow: 5px 5px 5px #232321;
+    overflow: auto;
+}
+
+h2
+{
+    
+    color: #AEC5EB;
+    width: 30%;
+    height: 20px;
+    margin: 20px;
+    border: 20px;
+    
+    padding: 20px;
+    background-color: #3A405A;
+    box-shadow: 5px 5px 5px #232321;
+    text-align: center;
+    border-radius: 25px;
+}
+
+ul
+{
+    list-style-type: none;
+
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #666;
+    box-shadow: 5px 5px 5px black;
+}
+
+li
+{
+    display: inline;
+    float: left;
+    font-weight: bold;
+    font-size: 30;
+    
+}
+
+li a {
+    display: block;
+    background-color: #666;
+    color: #AEC5EB;
+    text-align: center;
+    padding: 40px 40px;
+    text-decoration: none;
+    
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover 
+  {
+    background-color: #3A405A;
+    transform: scale(1.5, 1.5);
+  }
+  
